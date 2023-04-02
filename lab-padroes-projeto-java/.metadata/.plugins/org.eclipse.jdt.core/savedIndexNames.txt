@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\amand\eclipse-workspace\lab-padroes-projeto-java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
